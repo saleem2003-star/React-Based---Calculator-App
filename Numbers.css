@@ -1,0 +1,32 @@
+
+
+.one{
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+} 
+.main{
+    width: 800px;
+    
+    border-radius: 5px;
+
+}
+#first{
+    border-style: solid;
+    border-radius: 15px;
+    background-image: url(https://cdn.pixabay.com/photo/2022/09/21/17/02/blue-background-7470781_640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.in1{
+    width: 300px;
+    margin-left: 250px
+}
+.in2{
+    width: 300px;
+    margin-left: 250px;
+}
+#clearall{
+    margin-bottom: 20px;
+}
